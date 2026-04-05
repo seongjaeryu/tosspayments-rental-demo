@@ -6,7 +6,7 @@ export default function SandboxBanner() {
           doribear.dev
         </span>
         <span className="text-[11px] text-toss-gray-300">
-          테스트 결제 페이지입니다 · 실제 결제가 이루어지지 않습니다
+          테스트 환경 · 실제 결제되지 않습니다
         </span>
       </div>
     </div>
