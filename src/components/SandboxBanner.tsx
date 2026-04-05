@@ -59,8 +59,8 @@ export default function SandboxBanner() {
             <span className="text-[13px] font-semibold text-toss-black truncate">
               doribear.dev
             </span>
-            <span className="inline-flex items-center rounded-md bg-amber-50 px-1.5 py-0.5 text-[10px] font-semibold text-amber-700 border border-amber-200/60 shrink-0">
-              SANDBOX
+            <span className="text-[11px] italic text-toss-gray-200 truncate">
+              백패킹 장비 렌탈 플랫폼 데모
             </span>
           </div>
 
@@ -73,7 +73,7 @@ export default function SandboxBanner() {
             }`}
           >
             <span className="text-[12px] text-toss-gray-400 leading-tight">
-              토스페이먼츠 샌드박스 · 실제 결제 없음
+              개발용 테스트 화면 · 실제로 결제되지 않습니다.
             </span>
           </div>
         </div>
