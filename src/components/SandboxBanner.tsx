@@ -57,10 +57,7 @@ export default function SandboxBanner() {
             }`}
           >
             <span className="text-[13px] font-semibold text-toss-black truncate">
-              doribear.dev
-            </span>
-            <span className="text-[11px] italic text-toss-gray-200 truncate">
-              백패킹 장비 렌탈 플랫폼 데모
+              backpacking-pay.doribear.dev
             </span>
           </div>
 
