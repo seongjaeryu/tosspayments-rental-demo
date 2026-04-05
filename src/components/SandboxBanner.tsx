@@ -57,7 +57,10 @@ export default function SandboxBanner() {
             }`}
           >
             <span className="text-[13px] font-semibold text-toss-black truncate">
-              backpacking-pay.doribear.dev
+              백패킹 장비 렌탈 플랫폼
+            </span>
+            <span className="inline-flex items-center rounded-full bg-toss-gray-50 px-2 py-0.5 text-[10px] font-medium text-toss-gray-300 shrink-0">
+              TEST
             </span>
           </div>
 
